@@ -46,51 +46,67 @@ Roll20 Character Sheet for Fantasy Flight Games Star Wars Role Playing Game - fo
 	- Specializations Added
 		* Bounty Hunter		-  No Disintegrations
 		
-			Martial Artist,
-			Operator,
-			Skip Tracer,
+			Martial Artist
+			
+			Operator
+			
+			Skip Tracer
 			
 		* Engineer		-  Fully Operational
 		
-			Droid Specialist,
-			Sapper,
-			Shipwright,
+			Droid Specialist
+			
+			Sapper
+			
+			Shipwright
 			
 		* Soldier			-  Forged In Battle
 		
-			Heavy,
-			Trailblazer,
-			Vanguard,
+			Heavy
+			
+			Trailblazer
+			
+			Vanguard
 			
 		* Spy			-  Cyphers and Masks
 		
-			Courier,
-			Interrogator,
-			Sleeper Agent,
+			Courier
+			
+			Interrogator
+			
+			Sleeper Agent
 			
 		* Consular		-  Disciples of Harmony
 		
-			Arbiter,
-			Ascetic,
-			Teacher,
+			Arbiter
+			
+			Ascetic
+			
+			Teacher
 			
 		* Mystic			-  Unlimited Power
 		
-			Alchemist,
-			Magus,
-			Prophet,
+			Alchemist
+			
+			Magus
+			
+			Prophet
 			
 		* Sentinel		-  Endless Vigil
 		
-			Investigator,
-			Racer,
-			Sentry,
+			Investigator
+			
+			Racer
+			
+			Sentry
 			
 		* Warrior			-  Knights of Fate
 		
-			Colossus,
-			Juyo Berserker,
-			Steel Hand Adept,
+			Colossus
+			
+			Juyo Berserker
+			
+			Steel Hand Adept
 			
 		* Clone Soldier
 			Clone Pilot	-  Rise of the Separatists
