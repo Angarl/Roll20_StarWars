@@ -45,63 +45,102 @@ Roll20 Character Sheet for Fantasy Flight Games Star Wars Role Playing Game - fo
 		* Jedi			-  Rise of the Separatists & Collapse of the Republic
 	- Specializations Added
 		* Bounty Hunter		-  No Disintegrations
+		
 			Martial Artist
 			Operator
 			Skip Tracer
+			
 		* Engineer		-  Fully Operational
+		
 			Droid Specialist
 			Sapper
 			Shipwright
+			
 		* Soldier			-  Forged In Battle
+		
 			Heavy
 			Trailblazer
 			Vanguard
+			
 		* Spy			-  Cyphers and Masks
+		
 			Courier
 			Interrogator
 			Sleeper Agent
+			
 		* Consular		-  Disciples of Harmony
+		
 			Arbiter
 			Ascetic
 			Teacher
+			
 		* Mystic			-  Unlimited Power
+		
 			Alchemist
 			Magus
 			Prophet
+			
 		* Sentinel		-  Endless Vigil
+		
 			Investigator
 			Racer
 			Sentry
+			
 		* Warrior			-  Knights of Fate
+		
 			Colossus
 			Juyo Berserker
 			Steel Hand Adept
+			
 		* Clone Soldier
 			Clone Pilot	-  Rise of the Separatists
+			
 			Clone Trooper	-  Rise of the Separatists
+			
 			Clone Officer   -  Rise of the Separatists
+			
 			ARC Trooper	-  Collapse of the Republic
+			
 			Clone Commander -  Collapse of the Republic
+			
 			Clone Veteran 	-  Collapse of the Republic
+			
 		* Jedi
 			Knight		-  Rise of the Separatists
+			
 			Padawan		-  Rise of the Separatists
+			
 			General		-  Collapse of the Republic
+			
 			Master		-  Collapse of the Republic
+			
 		* Universal
 			Death Watch Warrior	-  Collapse of the Republic
+			
 			Force Adherent		-  Dawn of Rebellion
+			
 			Force Sensitive Outcast	-  Rise of the Separatists
+			
 			Imperial Academy Cadet	-  Dawn of Rebellion
+			
 			Nightsister		-  Collapse of the Republic
+			
 			Padawan Survivor	-  Dawn of Rebellion
+			
 			Pirate			-  Dawn of Rebellion
+			
 			Republic Navy Officer	-  Rise of the Separatists
+			
 			Republic Representative	-  Rise of the Separatists
+			
 			Retired Clone Trooper	-  Dawn of Rebellion
+			
 			Scavenger		-  Rise of the Separatists
+			
 			Senator			-  Collapse of the Republic
+			
 			Separatist Commander	-  Collapse of the Republic
+			
 			Ship Captain		-  Dawn of Rebellion
 * 6.4.3 Updates
   * Fixed Warfare to no longer roll from Xenology dice
