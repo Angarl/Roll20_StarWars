@@ -46,15 +46,15 @@ Roll20 Character Sheet for Fantasy Flight Games Star Wars Role Playing Game - fo
 	- Specializations Added
 		* Bounty Hunter		-  No Disintegrations
 		
-			Martial Artist
-			Operator
-			Skip Tracer
+			- Martial Artist
+			- Operator
+			- Skip Tracer
 			
 		* Engineer		-  Fully Operational
 		
-			Droid Specialist
-			Sapper
-			Shipwright
+			- Droid Specialist
+			- Sapper
+			- Shipwright
 			
 		* Soldier			-  Forged In Battle
 		
