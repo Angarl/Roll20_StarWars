@@ -82,7 +82,7 @@ Roll20 Character Sheet for Fantasy Flight Games Star Wars Role Playing Game - fo
 		* Warrior			-  Knights of Fate
 			- Colossus
 			- Juyo Berserker
-			-Steel Hand Adept
+			- Steel Hand Adept
 			
 		* Clone Soldier
 			Clone Pilot	-  Rise of the Separatists
