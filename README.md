@@ -4,7 +4,6 @@ Roll20 Character Sheet for Fantasy Flight Games Star Wars Role Playing Game - fo
 ## Change log
 * 6.5.0 Updates
   * Added Species/Career/Specialization data from many of the more recent books.
-
 	- Species added
 		Arkanian		-  Disciples of Harmony
 		Clawdite		-  No Disintegrations	
